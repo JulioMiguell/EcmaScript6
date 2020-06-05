@@ -11,3 +11,4 @@ Pretendo alimentar com novos conhecimentos adquiridos :smile:
 * 4. [Array](Array) :file_folder:
 * 5. [NodeJS](Node) :file_folder:
 * 6. [POO](POO) :file_folder:
+* 7. [Assincrono](Assincrono/anotacoes.md) :file_folder:
