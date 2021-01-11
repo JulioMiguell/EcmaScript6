@@ -4,7 +4,7 @@
 
 Obs: Lançar um erro e rejeitar uma promise são coisas distintas. Lançar um erro fará com que o código pare sua execução ao contrário de rejeitar uma promise, que prosseguirá com a execução.
 
-### Anotamomia de uma promise
+### Anatomia de uma promise
 
 ```javascript
 const promise = new Promise((resolve, reject) => {
