@@ -23,4 +23,6 @@
   * Os códigos assíncronos vão rodar depos que o "Main Stack" estiver completado suas tarefas de execução
   * setTimeout com 0 não significa execução imediata 
 
+  ## [Promises](promise.md)
+
 ### [Referência](https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd)
